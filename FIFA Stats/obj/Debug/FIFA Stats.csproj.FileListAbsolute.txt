@@ -1,0 +1,30 @@
+F:\Documents\Proyectos Programación\FIFA Stats\FIFA Stats\FIFA Stats\bin\Debug\FIFA Stats.exe.config
+F:\Documents\Proyectos Programación\FIFA Stats\FIFA Stats\FIFA Stats\bin\Debug\FIFA Stats.exe
+F:\Documents\Proyectos Programación\FIFA Stats\FIFA Stats\FIFA Stats\bin\Debug\FIFA Stats.pdb
+F:\Documents\Proyectos Programación\FIFA Stats\FIFA Stats\FIFA Stats\obj\Debug\FIFA Stats.csprojAssemblyReference.cache
+F:\Documents\Proyectos Programación\FIFA Stats\FIFA Stats\FIFA Stats\obj\Debug\FIFA_Stats.PantallaPrincipal.resources
+F:\Documents\Proyectos Programación\FIFA Stats\FIFA Stats\FIFA Stats\obj\Debug\FIFA_Stats.Properties.Resources.resources
+F:\Documents\Proyectos Programación\FIFA Stats\FIFA Stats\FIFA Stats\obj\Debug\FIFA Stats.csproj.GenerateResource.cache
+F:\Documents\Proyectos Programación\FIFA Stats\FIFA Stats\FIFA Stats\obj\Debug\FIFA Stats.csproj.CoreCompileInputs.cache
+F:\Documents\Proyectos Programación\FIFA Stats\FIFA Stats\FIFA Stats\obj\Debug\FIFA Stats.exe
+F:\Documents\Proyectos Programación\FIFA Stats\FIFA Stats\FIFA Stats\obj\Debug\FIFA Stats.pdb
+F:\Documents\Proyectos Programación\FIFA Stats\FIFA Stats\FIFA Stats\obj\Debug\FIFA_Stats.FUT_Champions.FUTChampions.resources
+F:\Documents\Proyectos Programación\FIFA Stats\FIFA Stats\FIFA Stats\obj\Debug\FIFA_Stats.FUT_Champions.AgregarSemana.resources
+F:\Documents\Proyectos Programación\FIFA Stats\FIFA Stats\FIFA Stats\obj\Debug\FIFA_Stats.FUT_Champions.AgregarPartido.resources
+F:\Documents\Proyectos Programación\FIFA Stats\FIFA Stats\FIFA Stats\obj\Debug\FIFA_Stats.FUT_Champions.VerSemana.resources
+F:\Documents\Proyectos Programación\FIFA Stats\FIFA Stats v2\FIFA Stats\bin\Debug\FIFA Stats.exe.config
+F:\Documents\Proyectos Programación\FIFA Stats\FIFA Stats v2\FIFA Stats\bin\Debug\FIFA Stats.exe
+F:\Documents\Proyectos Programación\FIFA Stats\FIFA Stats v2\FIFA Stats\bin\Debug\FIFA Stats.pdb
+F:\Documents\Proyectos Programación\FIFA Stats\FIFA Stats v2\FIFA Stats\obj\Debug\FIFA Stats.csprojAssemblyReference.cache
+F:\Documents\Proyectos Programación\FIFA Stats\FIFA Stats v2\FIFA Stats\obj\Debug\FIFA_Stats.MenuPrincipal.resources
+F:\Documents\Proyectos Programación\FIFA Stats\FIFA Stats v2\FIFA Stats\obj\Debug\FIFA_Stats.Properties.Resources.resources
+F:\Documents\Proyectos Programación\FIFA Stats\FIFA Stats v2\FIFA Stats\obj\Debug\FIFA Stats.csproj.GenerateResource.cache
+F:\Documents\Proyectos Programación\FIFA Stats\FIFA Stats v2\FIFA Stats\obj\Debug\FIFA Stats.csproj.CoreCompileInputs.cache
+F:\Documents\Proyectos Programación\FIFA Stats\FIFA Stats v2\FIFA Stats\obj\Debug\FIFA Stats.exe
+F:\Documents\Proyectos Programación\FIFA Stats\FIFA Stats v2\FIFA Stats\obj\Debug\FIFA Stats.pdb
+F:\Documents\Proyectos Programación\FIFA Stats\FIFA Stats v2\FIFA Stats\obj\Debug\FIFA_Stats.FUT_Champions.AgregarPartido.resources
+F:\Documents\Proyectos Programación\FIFA Stats\FIFA Stats v2\FIFA Stats\obj\Debug\FIFA_Stats.FUT_Champions.AgregarSemana.resources
+F:\Documents\Proyectos Programación\FIFA Stats\FIFA Stats v2\FIFA Stats\obj\Debug\FIFA_Stats.FUT_Champions.FUTChampions.resources
+F:\Documents\Proyectos Programación\FIFA Stats\FIFA Stats v2\FIFA Stats\obj\Debug\FIFA_Stats.FUT_Champions.Inicio.resources
+F:\Documents\Proyectos Programación\FIFA Stats\FIFA Stats v2\FIFA Stats\obj\Debug\FIFA_Stats.FUT_Champions.PantallaPrincipal.resources
+F:\Documents\Proyectos Programación\FIFA Stats\FIFA Stats v2\FIFA Stats\obj\Debug\FIFA_Stats.FUT_Champions.VerSemana.resources
